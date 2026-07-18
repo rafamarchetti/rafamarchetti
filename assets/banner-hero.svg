@@ -1,99 +1,93 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Rafael Marchetti - Head of Technology and Innovation</title>
+  <desc id="desc">Premium dark hacker style banner with subtle matrix code, terminal lines, and restrained teal details.</desc>
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#05070D"/>
-      <stop offset="55%" stop-color="#0F172A"/>
-      <stop offset="100%" stop-color="#111827"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020305"/>
+      <stop offset="0.45" stop-color="#070A0F"/>
+      <stop offset="1" stop-color="#020305"/>
     </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6C63FF"/>
-      <stop offset="50%" stop-color="#7C3AED"/>
-      <stop offset="100%" stop-color="#2563EB"/>
+    <linearGradient id="accent" x1="160" y1="72" x2="1240" y2="348" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#94A3B8" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#5EEAD4" stop-opacity="0.72"/>
+      <stop offset="0.7" stop-color="#38BDF8" stop-opacity="0.58"/>
+      <stop offset="1" stop-color="#94A3B8" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#8B7CFF" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
-    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(700 190) rotate(90) scale(230 560)">
+      <stop stop-color="#0F766E" stop-opacity="0.28"/>
+      <stop offset="0.46" stop-color="#0E7490" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#020305" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.18 0 0 0 0 0.95 0 0 0 0 0.82 0 0 0 0.7 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#1E293B" stroke-width="0.6" opacity="0.55"/>
+      <path d="M36 0H0V36" stroke="#CBD5E1" stroke-opacity="0.035" stroke-width="1"/>
     </pattern>
-    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="7" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+    <pattern id="scan" width="1" height="8" patternUnits="userSpaceOnUse">
+      <path d="M0 0H1V1H0V0Z" fill="#FFFFFF" fill-opacity="0.035"/>
+    </pattern>
+    <clipPath id="frameClip">
+      <rect x="44" y="36" width="1312" height="348" rx="0"/>
+    </clipPath>
   </defs>
 
-  <rect width="1200" height="320" fill="url(#bg)"/>
-  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1400" height="420" fill="url(#bg)"/>
+  <rect width="1400" height="420" fill="url(#glow)"/>
+  <rect width="1400" height="420" fill="url(#grid)"/>
+  <rect width="1400" height="420" fill="url(#scan)"/>
 
-  <!-- network / circuit lines -->
-  <g stroke="url(#lineGrad)" stroke-width="1" opacity="0.7">
-    <line x1="0" y1="60" x2="260" y2="60"/>
-    <line x1="260" y1="60" x2="330" y2="110"/>
-    <line x1="940" y1="70" x2="1200" y2="70"/>
-    <line x1="870" y1="70" x2="940" y2="70"/>
-    <line x1="0" y1="260" x2="220" y2="260"/>
-    <line x1="220" y1="260" x2="290" y2="215"/>
-    <line x1="980" y1="250" x2="1200" y2="250"/>
-    <line x1="910" y1="250" x2="980" y2="250"/>
-  </g>
-
-  <g fill="#7C3AED">
-    <circle cx="260" cy="60" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/></circle>
-    <circle cx="330" cy="110" r="2.4"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
-    <circle cx="940" cy="70" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/></circle>
-    <circle cx="870" cy="70" r="2.2"><animate attributeName="opacity" values="1;0.3;1" dur="3.4s" repeatCount="indefinite"/></circle>
-    <circle cx="220" cy="260" r="3"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" repeatCount="indefinite"/></circle>
-    <circle cx="290" cy="215" r="2.2"><animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></circle>
-    <circle cx="980" cy="250" r="3"><animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/></circle>
-    <circle cx="910" cy="250" r="2.2"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/></circle>
-  </g>
-
-  <!-- HUD corner brackets -->
-  <g stroke="#6C63FF" stroke-width="2" fill="none" opacity="0.85">
-    <path d="M 24 56 L 24 24 L 56 24"/>
-    <path d="M 1144 24 L 1176 24 L 1176 56"/>
-    <path d="M 24 264 L 24 296 L 56 296"/>
-    <path d="M 1144 296 L 1176 296 L 1176 264"/>
-  </g>
-
-  <!-- scanning beam -->
-  <rect x="0" y="0" width="4" height="320" fill="url(#scanGrad)" opacity="0.8">
-    <animate attributeName="x" values="0;1196;0" dur="7s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- terminal prompt tag -->
-  <text x="600" y="86" text-anchor="middle" font-family="'Courier New', monospace" font-size="15" letter-spacing="3" fill="#7C3AED" opacity="0.9">&gt; whoami --role=head-of-technology</text>
-
-  <!-- main title -->
-  <text x="600" y="160" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="4" fill="url(#textGrad)" filter="url(#glow)">RAFAEL MARCHETTI</text>
-
-  <!-- subtitle -->
-  <text x="600" y="196" text-anchor="middle" font-family="'Courier New', monospace" font-size="19" letter-spacing="3" fill="#CBD5E1">HEAD OF TECHNOLOGY &amp; INNOVATION</text>
-
-  <!-- tag chips -->
-  <g font-family="'Courier New', monospace" font-size="13.5" letter-spacing="1.5" fill="#94A3B8">
-    <text x="600" y="240" text-anchor="middle">
-      <tspan fill="#6C63FF">AI</tspan><tspan> · </tspan><tspan fill="#7C3AED">AUTOMATION</tspan><tspan> · </tspan><tspan fill="#2563EB">CLOUD</tspan><tspan> · </tspan><tspan fill="#6C63FF">DEVOPS</tspan><tspan> · </tspan><tspan fill="#7C3AED">CYBER SECURITY</tspan>
+  <g clip-path="url(#frameClip)" opacity="0.72">
+    <text font-family="Consolas, Monaco, 'Courier New', monospace" font-size="13" fill="#64748B" fill-opacity="0.35">
+      <tspan x="88" y="82">01001001 01000001 00101111 01000001 01010101 01010100 01001111 01001101 01000001 01010100 01001001 01001111 01001110</tspan>
+      <tspan x="160" y="122">root@innovation:~$ deploy --ai --cloud --secure --automate</tspan>
+      <tspan x="1040" y="98">0xRFM // signal locked</tspan>
+      <tspan x="74" y="316">for agent in llm mcp docker k8s cybersec; do optimize "$agent"; done</tspan>
+      <tspan x="888" y="342">status: encrypted / resilient / open-source</tspan>
     </text>
+    <g font-family="Consolas, Monaco, 'Courier New', monospace" font-size="18" fill="#5EEAD4" fill-opacity="0.13">
+      <text x="82" y="168">101101</text>
+      <text x="1230" y="178">010011</text>
+      <text x="188" y="246">./build</text>
+      <text x="1124" y="264">mcp://</text>
+      <text x="640" y="74">sudo</text>
+      <text x="728" y="360">cloud</text>
+    </g>
   </g>
 
-  <!-- base line -->
-  <line x1="450" y1="262" x2="750" y2="262" stroke="url(#lineGrad)" stroke-width="1.4" filter="url(#softGlow)"/>
+  <path d="M54 54H216" stroke="url(#accent)" stroke-opacity="0.7"/>
+  <path d="M1184 366H1346" stroke="url(#accent)" stroke-opacity="0.7"/>
+  <path d="M54 54V126M54 366V294M1346 54V126M1346 366V294" stroke="#5EEAD4" stroke-opacity="0.48" stroke-width="2"/>
+  <path d="M54 54H126M54 366H126M1346 54H1274M1346 366H1274" stroke="#5EEAD4" stroke-opacity="0.48" stroke-width="2"/>
+  <rect x="44.5" y="36.5" width="1311" height="347" stroke="#CBD5E1" stroke-opacity="0.12"/>
+
+  <g opacity="0.58">
+    <path d="M262 112L340 156L426 112" stroke="#64748B" stroke-opacity="0.22"/>
+    <path d="M974 120L1054 164L1138 118" stroke="#64748B" stroke-opacity="0.22"/>
+    <circle cx="262" cy="112" r="3" fill="#5EEAD4"/>
+    <circle cx="340" cy="156" r="3" fill="#94A3B8"/>
+    <circle cx="426" cy="112" r="3" fill="#38BDF8"/>
+    <circle cx="974" cy="120" r="3" fill="#38BDF8"/>
+    <circle cx="1054" cy="164" r="3" fill="#94A3B8"/>
+    <circle cx="1138" cy="118" r="3" fill="#5EEAD4"/>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <text x="700" y="196" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="74" font-weight="800" fill="#E5E7EB">RAFAEL MARCHETTI</text>
+  </g>
+  <text x="700" y="242" text-anchor="middle" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="18" font-weight="700" fill="#94A3B8" letter-spacing="4">HEAD OF TECHNOLOGY &amp; INNOVATION</text>
+  <text x="700" y="284" text-anchor="middle" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="14" font-weight="700" fill="#5EEAD4" fill-opacity="0.86" letter-spacing="3">AI / AUTOMATION / CLOUD / DEVOPS / CYBER SECURITY</text>
+
+  <g transform="translate(470 314)">
+    <rect width="460" height="34" rx="0" fill="#020617" fill-opacity="0.78" stroke="#1E293B"/>
+    <circle cx="22" cy="17" r="4" fill="#5EEAD4"/>
+    <text x="42" y="22" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="14" font-weight="700" fill="#CBD5E1">whoami</text>
+    <text x="116" y="22" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="14" fill="#64748B">=</text>
+    <text x="138" y="22" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="14" font-weight="700" fill="#E5E7EB">builder of intelligent systems</text>
+  </g>
 </svg>
