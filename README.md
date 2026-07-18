@@ -55,12 +55,13 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 
 </div>
 
-- 🤖 AI Agents & Large Language Models (LLMs)
+- 🤖 Agentes de IA e Large Language Models (LLMs)
 - 🔗 Model Context Protocol (MCP)
-- ☁️ DevOps & Cloud Engineering
-- 🐳 Docker & Kubernetes
-- 🛡️ Cyber Security
-- 🌍 Open Source Contributions
+- 🎓 Pós-graduando em DevOps & Cloud Platform Engineering com IA
+- 🐳 Docker e Conteinerização
+- 🌱 Estudando Kubernetes
+- 🛡️ Estudando Cyber Security
+- 🌍 Entusiasta de Open Source
 
 </td>
 </tr>
