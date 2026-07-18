@@ -1,0 +1,26 @@
+<svg width="1600" height="300" viewBox="0 0 1600 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">System status</title>
+  <desc id="desc">Terminal-style status footer for Rafael Marchetti's profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020303"/>
+      <stop offset="0.5" stop-color="#080A0C"/>
+      <stop offset="1" stop-color="#020303"/>
+    </linearGradient>
+    <linearGradient id="line" x1="240" y1="0" x2="1360" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A7F3D0" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#A7F3D0" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#A7F3D0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="300" fill="url(#bg)"/>
+  <rect x="72.5" y="38.5" width="1455" height="223" stroke="#E5E7EB" stroke-opacity="0.1"/>
+  <path d="M240 84H1360" stroke="url(#line)" stroke-width="2"/>
+  <text x="128" y="78" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="15" font-weight="700" fill="#A7F3D0" letter-spacing="3">system-status.log</text>
+  <text x="128" y="132" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="17" font-weight="700" fill="#CBD5E1">Artificial Intelligence ........ ONLINE</text>
+  <text x="128" y="166" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="17" font-weight="700" fill="#CBD5E1">Automation ..................... ONLINE</text>
+  <text x="128" y="200" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="17" font-weight="700" fill="#CBD5E1">Software Engineering ........... ONLINE</text>
+  <text x="920" y="132" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="17" font-weight="700" fill="#CBD5E1">Continuous Learning ............ ACTIVE</text>
+  <text x="920" y="166" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="17" font-weight="700" fill="#94A3B8">version ......................... 2026.07</text>
+  <text x="920" y="200" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="17" font-weight="700" fill="#94A3B8">operator ......................... Rafael Marchetti</text>
+</svg>
