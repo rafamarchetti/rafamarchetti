@@ -66,11 +66,10 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 </td>
 </tr>
 </table>
-
 </div>
+<table border="0" cellspacing="0" cellpadding="14"></table>
 
 <br/>
-<table border="0" cellspacing="0" cellpadding="14">
 <div align="left">
 
 | 🎓 Formação | Instituição |
@@ -78,10 +77,6 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 | Bacharel em Ciência da Computação | **Anhanguera** |
 | Pós-graduando em DevOps & Cloud Platform Engineering com Inteligência Artificial | **PUC Minas** |
 </div>
-
-<br/>
-
-<div align="left"><img src="assets/divider.svg" width="100%"/></div>
 
 <br/>
 
