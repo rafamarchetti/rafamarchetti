@@ -2,11 +2,11 @@
 
 <img src="assets/banner-hero.svg" width="100%"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Head+of+Technology+%26+Innovation;Artificial+Intelligence+Engineer;AI+Automation+Specialist;WordPress+Expert;Postgraduate+in+DevOps+%26+Cloud+Engineering+with+AI;Cyber+Security+Enthusiast;Open+Source+Contributor;Building+Intelligent+Systems&font=Fira+Code&center=true&width=850&height=50&duration=3000&pause=1000&color=8B7CFF&vCenter=true&size=21&weight=600" alt="Typing SVG"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.rafaelmarchetti.com.br">
   <img src="https://img.shields.io/badge/WEBSITE-rafaelmarchetti.com.br-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A"/>
@@ -67,7 +67,6 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 </tr>
 </table>
 </div>
-<table border="0" cellspacing="0" cellpadding="14"></table>
 
 <br/>
 <div align="left">
