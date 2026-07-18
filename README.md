@@ -40,9 +40,11 @@
 
 </div>
 
-I lead technology and innovation initiatives at the intersection of **Artificial Intelligence**, **Automation**, **Cloud Computing** and **DevOps**. As **Head of Technology & Innovation**, I design and ship intelligent systems — from AI agents and automation pipelines to resilient cloud infrastructure.
+Lidero iniciativas de tecnologia e inovação utilizando **Inteligência Artificial**, **Automação**, desenvolvimento web e integrações de sistemas.
 
-My day-to-day spans **web engineering**, **API integrations**, **containerized environments**, and **AI-driven automation** that turns manual workflows into self-operating systems.
+Atuo como **Head of Technology & Innovation**, desenvolvendo soluções baseadas em IA, APIs, WordPress, Docker e automações para otimizar processos e acelerar a transformação digital.
+
+Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Inteligência Artificial pela PUC Minas**, aprofundando meus conhecimentos em arquitetura de plataformas, computação em nuvem, DevOps e cibersegurança.
 
 </td>
 <td width="50%" valign="top">
