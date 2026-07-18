@@ -79,13 +79,11 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 
 ## 📊 github-analytics.exe
 
-<div align="left">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=rafamarchetti&theme=dark&hide_border=true&background=0F172A&ring=6C63FF&fire=7C3AED&currStreakLabel=8B7CFF&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=E2E8F0&dates=64748B" width="48%"/>
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamarchetti&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&title_color=8B7CFF&text_color=E2E8F0&langs_count=10" width="48%"/>
 
 </div>
 
