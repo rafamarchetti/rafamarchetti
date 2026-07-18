@@ -71,7 +71,7 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 ## 🎓 Formação
 
@@ -84,7 +84,7 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+<div align="left"><img src="assets/divider.svg" width="100%"/></div>
 
 <br/>
 
@@ -141,79 +141,8 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 
 <br/>
 
-## 🗺️ roadmap-2026.yml
 
-<div align="center">
-
-| Status | Goal |
-|:---:|:---|
-| ✅ | GitHub Student Developer Pack |
-| 🔄 | AWS Certification |
-| 🔄 | Microsoft Azure Certification |
-| 🔄 | Kubernetes (CKA) |
-| 🔄 | AI Agents — advanced orchestration |
-| 🔄 | Model Context Protocol (MCP) — deep dive |
-| 🔄 | Cyber Security fundamentals & certifications |
-| 🔄 | Local LLMs — self-hosted inference |
-| 🔄 | Open Source Projects — meaningful contributions |
-
-</div>
-
-<br/>
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-<br/>
-
-## 💼 featured-projects/
-
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="14">
-<tr>
-<td width="33%" valign="top">
-
-### 🤖 AI Automation Hub
-
-Orchestration platform connecting AI agents to business workflows through MCP and custom automation pipelines.
-
-`Python` `n8n` `MCP` `Docker`
-
-**[→ Code](https://github.com/rafamarchetti)** &nbsp;·&nbsp; **[↗ Live Demo](https://www.rafaelmarchetti.com.br)**
-
-</td>
-<td width="33%" valign="top">
-
-### ☁️ Cloud Infra Toolkit
-
-Infrastructure-as-Code toolkit for provisioning secure, scalable environments across AWS, Cloudflare and Vercel.
-
-`Terraform` `AWS` `Cloudflare` `Docker`
-
-**[→ Code](https://github.com/rafamarchetti)** &nbsp;·&nbsp; **[↗ Live Demo](https://www.rafaelmarchetti.com.br)**
-
-</td>
-<td width="33%" valign="top">
-
-### 🛡️ SecureOps Dashboard
-
-Monitoring and hardening dashboard for DevOps pipelines, combining CI/CD security checks with real-time alerts.
-
-`PHP` `GitHub Actions` `Supabase` `Linux`
-
-**[→ Code](https://github.com/rafamarchetti)** &nbsp;·&nbsp; **[↗ Live Demo](https://www.rafaelmarchetti.com.br)**
-
-</td>
-</tr>
-</table>
-
-<sub>📌 Substitua estes exemplos pelos seus repositórios reais — veja o <code>INSTALL.md</code>.</sub>
-
-</div>
-
-<br/>
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+<div align="left"><img src="assets/divider.svg" width="100%"/></div>
 
 <br/>
 
