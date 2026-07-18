@@ -1,0 +1,99 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05070D"/>
+      <stop offset="55%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6C63FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#8B7CFF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#1E293B" stroke-width="0.6" opacity="0.55"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <!-- network / circuit lines -->
+  <g stroke="url(#lineGrad)" stroke-width="1" opacity="0.7">
+    <line x1="0" y1="60" x2="260" y2="60"/>
+    <line x1="260" y1="60" x2="330" y2="110"/>
+    <line x1="940" y1="70" x2="1200" y2="70"/>
+    <line x1="870" y1="70" x2="940" y2="70"/>
+    <line x1="0" y1="260" x2="220" y2="260"/>
+    <line x1="220" y1="260" x2="290" y2="215"/>
+    <line x1="980" y1="250" x2="1200" y2="250"/>
+    <line x1="910" y1="250" x2="980" y2="250"/>
+  </g>
+
+  <g fill="#7C3AED">
+    <circle cx="260" cy="60" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="110" r="2.4"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="940" cy="70" r="3.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="870" cy="70" r="2.2"><animate attributeName="opacity" values="1;0.3;1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="220" cy="260" r="3"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="290" cy="215" r="2.2"><animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="250" r="3"><animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="910" cy="250" r="2.2"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- HUD corner brackets -->
+  <g stroke="#6C63FF" stroke-width="2" fill="none" opacity="0.85">
+    <path d="M 24 56 L 24 24 L 56 24"/>
+    <path d="M 1144 24 L 1176 24 L 1176 56"/>
+    <path d="M 24 264 L 24 296 L 56 296"/>
+    <path d="M 1144 296 L 1176 296 L 1176 264"/>
+  </g>
+
+  <!-- scanning beam -->
+  <rect x="0" y="0" width="4" height="320" fill="url(#scanGrad)" opacity="0.8">
+    <animate attributeName="x" values="0;1196;0" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- terminal prompt tag -->
+  <text x="600" y="86" text-anchor="middle" font-family="'Courier New', monospace" font-size="15" letter-spacing="3" fill="#7C3AED" opacity="0.9">&gt; whoami --role=head-of-technology</text>
+
+  <!-- main title -->
+  <text x="600" y="160" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="4" fill="url(#textGrad)" filter="url(#glow)">RAFAEL MARCHETTI</text>
+
+  <!-- subtitle -->
+  <text x="600" y="196" text-anchor="middle" font-family="'Courier New', monospace" font-size="19" letter-spacing="3" fill="#CBD5E1">HEAD OF TECHNOLOGY &amp; INNOVATION</text>
+
+  <!-- tag chips -->
+  <g font-family="'Courier New', monospace" font-size="13.5" letter-spacing="1.5" fill="#94A3B8">
+    <text x="600" y="240" text-anchor="middle">
+      <tspan fill="#6C63FF">AI</tspan><tspan> · </tspan><tspan fill="#7C3AED">AUTOMATION</tspan><tspan> · </tspan><tspan fill="#2563EB">CLOUD</tspan><tspan> · </tspan><tspan fill="#6C63FF">DEVOPS</tspan><tspan> · </tspan><tspan fill="#7C3AED">CYBER SECURITY</tspan>
+    </text>
+  </g>
+
+  <!-- base line -->
+  <line x1="450" y1="262" x2="750" y2="262" stroke="url(#lineGrad)" stroke-width="1.4" filter="url(#softGlow)"/>
+</svg>
