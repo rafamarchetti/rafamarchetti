@@ -101,25 +101,7 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 
 <div align="center">
 
-**`$ ./contribution-snake --run`**
-
-<img src="https://raw.githubusercontent.com/rafamarchetti/rafamarchetti/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>Gerado automaticamente via GitHub Actions — configuração completa no <code>INSTALL.md</code>.</sub>
-
-</div>
-
-<br/>
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-<br/>
-
-
-<div align="left"><img src="assets/divider.svg" width="100%"/></div>
-
-<br/>
-
+<br/><br/><br/>
 
 ## 🔗 connect.sh
 
