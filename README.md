@@ -3,9 +3,6 @@
 <img src="assets/banner-hero.svg" width="100%"/>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Head+of+Technology+%26+Innovation;Artificial+Intelligence+Engineer;AI+Automation+Specialist;WordPress+Expert;Postgraduate+in+DevOps+%26+Cloud+Engineering+with+AI;Cyber+Security+Enthusiast;Open+Source+Contributor;Building+Intelligent+Systems&font=Fira+Code&center=true&width=850&height=50&duration=3000&pause=1000&color=8B7CFF&vCenter=true&size=21&weight=600" alt="Typing SVG"/>
-
 <br/>
 
 <a href="https://www.rafaelmarchetti.com.br">
@@ -73,8 +70,8 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 
 | 🎓 Formação | Instituição |
 |:---|:---|
-| Bacharel em Ciência da Computação | **Anhanguera** |
-| Pós-graduando em DevOps & Cloud Platform Engineering com Inteligência Artificial | **PUC Minas** |
+| - Bacharel em Ciência da Computação | **Anhanguera** |
+| - Pós-graduando em DevOps & Cloud Platform Engineering com Inteligência Artificial | **PUC Minas** |
 </div>
 
 <br/>
@@ -83,7 +80,6 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafamarchetti&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=8B7CFF&icon_color=7C3AED&text_color=E2E8F0&ring_color=6C63FF&count_private=true" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=rafamarchetti&theme=dark&hide_border=true&background=0F172A&ring=6C63FF&fire=7C3AED&currStreakLabel=8B7CFF&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=E2E8F0&dates=64748B" width="48%"/>
 
 <br/>
