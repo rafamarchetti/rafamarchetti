@@ -1,93 +1,69 @@
-<svg width="1400" height="420" viewBox="0 0 1400 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Rafael Marchetti - Head of Technology and Innovation</title>
-  <desc id="desc">Premium dark hacker style banner with subtle matrix code, terminal lines, and restrained teal details.</desc>
+  <desc id="desc">Dark premium cybernetic banner with restrained graphite, black, silver and subtle teal accents.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#020305"/>
-      <stop offset="0.45" stop-color="#070A0F"/>
-      <stop offset="1" stop-color="#020305"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020303"/>
+      <stop offset="0.52" stop-color="#07090B"/>
+      <stop offset="1" stop-color="#020303"/>
     </linearGradient>
-    <linearGradient id="accent" x1="160" y1="72" x2="1240" y2="348" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#94A3B8" stop-opacity="0"/>
-      <stop offset="0.35" stop-color="#5EEAD4" stop-opacity="0.72"/>
-      <stop offset="0.7" stop-color="#38BDF8" stop-opacity="0.58"/>
-      <stop offset="1" stop-color="#94A3B8" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(700 190) rotate(90) scale(230 560)">
-      <stop stop-color="#0F766E" stop-opacity="0.28"/>
-      <stop offset="0.46" stop-color="#0E7490" stop-opacity="0.1"/>
-      <stop offset="1" stop-color="#020305" stop-opacity="0"/>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 270) rotate(90) scale(320 700)">
+      <stop stop-color="#123A3A" stop-opacity="0.42"/>
+      <stop offset="0.46" stop-color="#071011" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#020303" stop-opacity="0"/>
     </radialGradient>
-    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.18 0 0 0 0 0.95 0 0 0 0 0.82 0 0 0 0.7 0"/>
+    <linearGradient id="hairline" x1="180" y1="0" x2="1420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E5E7EB" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#D9F99D" stop-opacity="0.56"/>
+      <stop offset="1" stop-color="#E5E7EB" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#F8FAFC" stroke-opacity="0.035"/>
+    </pattern>
+    <filter id="titleGlow" x="-20%" y="-80%" width="140%" height="260%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.64 0 0 0 0 0.86 0 0 0 0 0.78 0 0 0 0.55 0"/>
       <feMerge>
         <feMergeNode/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" stroke="#CBD5E1" stroke-opacity="0.035" stroke-width="1"/>
-    </pattern>
-    <pattern id="scan" width="1" height="8" patternUnits="userSpaceOnUse">
-      <path d="M0 0H1V1H0V0Z" fill="#FFFFFF" fill-opacity="0.035"/>
-    </pattern>
-    <clipPath id="frameClip">
-      <rect x="44" y="36" width="1312" height="348" rx="0"/>
-    </clipPath>
   </defs>
 
-  <rect width="1400" height="420" fill="url(#bg)"/>
-  <rect width="1400" height="420" fill="url(#glow)"/>
-  <rect width="1400" height="420" fill="url(#grid)"/>
-  <rect width="1400" height="420" fill="url(#scan)"/>
+  <rect width="1600" height="560" fill="url(#bg)"/>
+  <rect width="1600" height="560" fill="url(#halo)"/>
+  <rect width="1600" height="560" fill="url(#grid)"/>
 
-  <g clip-path="url(#frameClip)" opacity="0.72">
-    <text font-family="Consolas, Monaco, 'Courier New', monospace" font-size="13" fill="#64748B" fill-opacity="0.35">
-      <tspan x="88" y="82">01001001 01000001 00101111 01000001 01010101 01010100 01001111 01001101 01000001 01010100 01001001 01001111 01001110</tspan>
-      <tspan x="160" y="122">root@innovation:~$ deploy --ai --cloud --secure --automate</tspan>
-      <tspan x="1040" y="98">0xRFM // signal locked</tspan>
-      <tspan x="74" y="316">for agent in llm mcp docker k8s cybersec; do optimize "$agent"; done</tspan>
-      <tspan x="888" y="342">status: encrypted / resilient / open-source</tspan>
-    </text>
-    <g font-family="Consolas, Monaco, 'Courier New', monospace" font-size="18" fill="#5EEAD4" fill-opacity="0.13">
-      <text x="82" y="168">101101</text>
-      <text x="1230" y="178">010011</text>
-      <text x="188" y="246">./build</text>
-      <text x="1124" y="264">mcp://</text>
-      <text x="640" y="74">sudo</text>
-      <text x="728" y="360">cloud</text>
-    </g>
+  <g opacity="0.34" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="16" fill="#94A3B8">
+    <text x="96" y="110">01 52 46 4D 20 2F 2F 20 49 4E 4E 4F 56 41 54 49 4F 4E</text>
+    <text x="1090" y="142">root@platform:~$ harden --ship</text>
+    <text x="128" y="444">agent.pipeline({ ai, cloud, devops, security, automation })</text>
+    <text x="1030" y="462">signal: quiet / precise / resilient</text>
   </g>
 
-  <path d="M54 54H216" stroke="url(#accent)" stroke-opacity="0.7"/>
-  <path d="M1184 366H1346" stroke="url(#accent)" stroke-opacity="0.7"/>
-  <path d="M54 54V126M54 366V294M1346 54V126M1346 366V294" stroke="#5EEAD4" stroke-opacity="0.48" stroke-width="2"/>
-  <path d="M54 54H126M54 366H126M1346 54H1274M1346 366H1274" stroke="#5EEAD4" stroke-opacity="0.48" stroke-width="2"/>
-  <rect x="44.5" y="36.5" width="1311" height="347" stroke="#CBD5E1" stroke-opacity="0.12"/>
-
-  <g opacity="0.58">
-    <path d="M262 112L340 156L426 112" stroke="#64748B" stroke-opacity="0.22"/>
-    <path d="M974 120L1054 164L1138 118" stroke="#64748B" stroke-opacity="0.22"/>
-    <circle cx="262" cy="112" r="3" fill="#5EEAD4"/>
-    <circle cx="340" cy="156" r="3" fill="#94A3B8"/>
-    <circle cx="426" cy="112" r="3" fill="#38BDF8"/>
-    <circle cx="974" cy="120" r="3" fill="#38BDF8"/>
-    <circle cx="1054" cy="164" r="3" fill="#94A3B8"/>
-    <circle cx="1138" cy="118" r="3" fill="#5EEAD4"/>
+  <g opacity="0.45">
+    <path d="M250 188L380 120L492 188" stroke="#475569"/>
+    <path d="M1106 176L1226 116L1360 178" stroke="#475569"/>
+    <circle cx="250" cy="188" r="4" fill="#A7F3D0"/>
+    <circle cx="380" cy="120" r="4" fill="#D9F99D"/>
+    <circle cx="492" cy="188" r="4" fill="#64748B"/>
+    <circle cx="1106" cy="176" r="4" fill="#64748B"/>
+    <circle cx="1226" cy="116" r="4" fill="#A7F3D0"/>
+    <circle cx="1360" cy="178" r="4" fill="#D9F99D"/>
   </g>
 
-  <g filter="url(#softGlow)">
-    <text x="700" y="196" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="74" font-weight="800" fill="#E5E7EB">RAFAEL MARCHETTI</text>
-  </g>
-  <text x="700" y="242" text-anchor="middle" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="18" font-weight="700" fill="#94A3B8" letter-spacing="4">HEAD OF TECHNOLOGY &amp; INNOVATION</text>
-  <text x="700" y="284" text-anchor="middle" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="14" font-weight="700" fill="#5EEAD4" fill-opacity="0.86" letter-spacing="3">AI / AUTOMATION / CLOUD / DEVOPS / CYBER SECURITY</text>
+  <rect x="72.5" y="64.5" width="1455" height="431" stroke="#E5E7EB" stroke-opacity="0.1"/>
+  <path d="M72 64H222M72 64V214M1528 64H1378M1528 64V214M72 496H222M72 496V346M1528 496H1378M1528 496V346" stroke="#E5E7EB" stroke-opacity="0.38" stroke-width="2"/>
+  <path d="M238 280H1362" stroke="url(#hairline)" stroke-width="2"/>
 
-  <g transform="translate(470 314)">
-    <rect width="460" height="34" rx="0" fill="#020617" fill-opacity="0.78" stroke="#1E293B"/>
-    <circle cx="22" cy="17" r="4" fill="#5EEAD4"/>
-    <text x="42" y="22" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="14" font-weight="700" fill="#CBD5E1">whoami</text>
-    <text x="116" y="22" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="14" fill="#64748B">=</text>
-    <text x="138" y="22" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="14" font-weight="700" fill="#E5E7EB">builder of intelligent systems</text>
+  <text x="800" y="158" text-anchor="middle" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="17" font-weight="700" fill="#A7F3D0" fill-opacity="0.82" letter-spacing="5">SYSTEM PROFILE</text>
+  <text x="800" y="258" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="92" font-weight="850" fill="#F8FAFC" filter="url(#titleGlow)">RAFAEL MARCHETTI</text>
+  <text x="800" y="328" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="650" fill="#CBD5E1" letter-spacing="2">HEAD OF TECHNOLOGY &amp; INNOVATION</text>
+  <text x="800" y="382" text-anchor="middle" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="17" font-weight="700" fill="#94A3B8" letter-spacing="4">AI AUTOMATION CLOUD DEVOPS SECURITY</text>
+
+  <g transform="translate(548 424)">
+    <rect width="504" height="42" fill="#050607" stroke="#1F2937"/>
+    <rect width="6" height="42" fill="#A7F3D0" fill-opacity="0.85"/>
+    <text x="30" y="27" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="15" font-weight="700" fill="#E5E7EB">building intelligent systems with operational depth</text>
   </g>
 </svg>

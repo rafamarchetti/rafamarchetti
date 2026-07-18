@@ -1,26 +1,21 @@
-<svg width="1400" height="190" viewBox="0 0 1400 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Footer banner</title>
-  <desc id="desc">Minimal dark footer with restrained code aesthetics.</desc>
+<svg width="1600" height="220" viewBox="0 0 1600 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Footer</title>
+  <desc id="desc">Minimal dark footer with subtle premium cybernetic style.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="190" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#020305"/>
-      <stop offset="0.5" stop-color="#070A0F"/>
-      <stop offset="1" stop-color="#020305"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020303"/>
+      <stop offset="0.5" stop-color="#07090B"/>
+      <stop offset="1" stop-color="#020303"/>
     </linearGradient>
-    <linearGradient id="line" x1="190" y1="95" x2="1210" y2="95" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#94A3B8" stop-opacity="0"/>
-      <stop offset="0.45" stop-color="#5EEAD4" stop-opacity="0.66"/>
-      <stop offset="1" stop-color="#94A3B8" stop-opacity="0"/>
+    <linearGradient id="line" x1="240" y1="0" x2="1360" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A7F3D0" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#A7F3D0" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#A7F3D0" stop-opacity="0"/>
     </linearGradient>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" stroke="#CBD5E1" stroke-opacity="0.035"/>
-    </pattern>
   </defs>
-  <rect width="1400" height="190" fill="url(#bg)"/>
-  <rect width="1400" height="190" fill="url(#grid)"/>
-  <path d="M196 95H1204" stroke="url(#line)" stroke-width="2"/>
-  <path d="M54 48V88M54 142V102M1346 48V88M1346 142V102" stroke="#5EEAD4" stroke-opacity="0.42" stroke-width="2"/>
-  <path d="M54 48H96M54 142H96M1346 48H1304M1346 142H1304" stroke="#5EEAD4" stroke-opacity="0.42" stroke-width="2"/>
-  <text x="700" y="86" text-anchor="middle" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="15" font-weight="700" fill="#CBD5E1" letter-spacing="4">BUILT WITH AI / AUTOMATION / CLOUD / DEVOPS / SECURITY</text>
-  <text x="700" y="122" text-anchor="middle" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="13" fill="#64748B" letter-spacing="3">while(true) { learn(); build(); automate(); secure(); }</text>
+  <rect width="1600" height="220" fill="url(#bg)"/>
+  <rect x="72.5" y="48.5" width="1455" height="123" stroke="#E5E7EB" stroke-opacity="0.1"/>
+  <path d="M240 110H1360" stroke="url(#line)" stroke-width="2"/>
+  <text x="800" y="100" text-anchor="middle" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="17" font-weight="700" fill="#CBD5E1" letter-spacing="5">BUILD / AUTOMATE / SCALE / SECURE</text>
+  <text x="800" y="142" text-anchor="middle" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="14" font-weight="700" fill="#94A3B8" letter-spacing="4">RAFAEL MARCHETTI</text>
 </svg>

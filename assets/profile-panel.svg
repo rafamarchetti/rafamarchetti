@@ -1,0 +1,79 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">About Rafael Marchetti</title>
+  <desc id="desc">Dark premium profile panel with about, focus, education and stack information.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020303"/>
+      <stop offset="0.5" stop-color="#080A0C"/>
+      <stop offset="1" stop-color="#020303"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="120" y1="0" x2="1480" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A7F3D0" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#A7F3D0" stop-opacity="0.44"/>
+      <stop offset="1" stop-color="#A7F3D0" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#F8FAFC" stroke-opacity="0.03"/>
+    </pattern>
+    <style>
+      .mono { font-family: Consolas, Monaco, 'Courier New', monospace; }
+      .sans { font-family: Inter, Segoe UI, Arial, sans-serif; }
+      .h { fill: #F8FAFC; font-size: 32px; font-weight: 800; }
+      .label { fill: #A7F3D0; font-size: 15px; font-weight: 800; letter-spacing: 3px; }
+      .body { fill: #CBD5E1; font-size: 25px; font-weight: 500; }
+      .muted { fill: #94A3B8; font-size: 22px; font-weight: 500; }
+      .code { fill: #D9F99D; font-size: 21px; font-weight: 700; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#grid)"/>
+  <rect x="70.5" y="58.5" width="1459" height="783" stroke="#E5E7EB" stroke-opacity="0.1"/>
+  <path d="M164 132H1436" stroke="url(#edge)" stroke-width="2"/>
+  <path d="M164 768H1436" stroke="url(#edge)" stroke-width="2"/>
+
+  <text x="128" y="118" class="mono label">./about-me.sh</text>
+  <text x="128" y="188" class="sans h">Tecnologia, IA e automação com mentalidade de plataforma.</text>
+  <text x="128" y="250" class="sans body">Lidero iniciativas de tecnologia e inovação usando Inteligência Artificial, automação,</text>
+  <text x="128" y="288" class="sans body">desenvolvimento web e integrações de sistemas para otimizar processos e acelerar a</text>
+  <text x="128" y="326" class="sans body">transformação digital.</text>
+
+  <text x="128" y="398" class="sans muted">Atuo como Head of Technology &amp; Innovation, criando soluções com IA, APIs,</text>
+  <text x="128" y="434" class="sans muted">WordPress, Docker e automações. Atualmente sou pós-graduando em DevOps &amp;</text>
+  <text x="128" y="470" class="sans muted">Cloud Platform Engineering com Inteligência Artificial pela PUC Minas.</text>
+
+  <g transform="translate(1010 178)">
+    <rect width="410" height="350" fill="#050607" stroke="#1F2937"/>
+    <rect width="410" height="4" fill="#A7F3D0" fill-opacity="0.72"/>
+    <text x="34" y="68" class="mono label">CURRENT FOCUS</text>
+    <text x="34" y="124" class="mono code">&gt; AI agents and LLMs</text>
+    <text x="34" y="168" class="mono code">&gt; Model Context Protocol</text>
+    <text x="34" y="212" class="mono code">&gt; Docker and Kubernetes</text>
+    <text x="34" y="256" class="mono code">&gt; Cloud, DevOps and CI/CD</text>
+    <text x="34" y="300" class="mono code">&gt; Cyber Security</text>
+  </g>
+
+  <g transform="translate(128 580)">
+    <text x="0" y="0" class="mono label">EDUCATION</text>
+    <rect y="34" width="620" height="132" fill="#050607" stroke="#1F2937"/>
+    <text x="32" y="86" class="sans body">Bacharel em Ciência da Computação</text>
+    <text x="32" y="126" class="sans muted">Anhanguera</text>
+    <path d="M0 162H620" stroke="#1F2937"/>
+    <text x="32" y="214" class="sans body">DevOps &amp; Cloud Platform Engineering com IA</text>
+    <text x="32" y="254" class="sans muted">PUC Minas</text>
+  </g>
+
+  <g transform="translate(840 580)">
+    <text x="0" y="0" class="mono label">OPERATING STACK</text>
+    <rect y="34" width="580" height="220" fill="#050607" stroke="#1F2937"/>
+    <text x="34" y="88" class="mono code">AI</text>
+    <text x="156" y="88" class="mono code">AUTOMATION</text>
+    <text x="374" y="88" class="mono code">CLOUD</text>
+    <text x="34" y="144" class="mono code">DOCKER</text>
+    <text x="196" y="144" class="mono code">KUBERNETES</text>
+    <text x="414" y="144" class="mono code">LINUX</text>
+    <text x="34" y="200" class="mono code">WORDPRESS</text>
+    <text x="254" y="200" class="mono code">APIs</text>
+    <text x="374" y="200" class="mono code">SECURITY</text>
+  </g>
+</svg>
