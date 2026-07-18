@@ -16,6 +16,6 @@
   <rect width="1600" height="220" fill="url(#bg)"/>
   <rect x="72.5" y="48.5" width="1455" height="123" stroke="#E5E7EB" stroke-opacity="0.1"/>
   <path d="M240 110H1360" stroke="url(#line)" stroke-width="2"/>
-  <text x="800" y="100" text-anchor="middle" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="17" font-weight="700" fill="#CBD5E1" letter-spacing="5">BUILD / AUTOMATE / SCALE / SECURE</text>
+  <text x="800" y="100" text-anchor="middle" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="17" font-weight="700" fill="#CBD5E1" letter-spacing="5">BUILD / AUTOMATE / INTEGRATE / EVOLVE</text>
   <text x="800" y="142" text-anchor="middle" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="14" font-weight="700" fill="#94A3B8" letter-spacing="4">RAFAEL MARCHETTI</text>
 </svg>
