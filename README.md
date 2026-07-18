@@ -88,68 +88,6 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 
 <br/>
 
-## ⚙️ tech-stack.json
-
-<div align="center">
-
-**🤖 Artificial Intelligence & Automation**
-
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=dark"/>
-
-<sub>`OpenAI API` · `n8n` · `MCP` · `AI Agents`</sub>
-
-<br/><br/>
-
-**🧩 Backend**
-
-<img src="https://skillicons.dev/icons?i=python,php,nodejs,fastapi,laravel&theme=dark"/>
-
-<br/><br/>
-
-**🎨 Frontend**
-
-<img src="https://skillicons.dev/icons?i=js,html,css,react,wordpress,tailwind&theme=dark"/>
-
-<br/><br/>
-
-**☁️ Cloud & Deployment**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel,firebase&theme=dark"/>
-
-<br/><br/>
-
-**🔧 DevOps & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,nginx,git&theme=dark"/>
-
-<br/><br/>
-
-**🗄️ Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase,sqlite&theme=dark"/>
-
-<br/><br/>
-
-**🛡️ Security & Tools**
-
-<img src="https://skillicons.dev/icons?i=linux,bash,postman,vscode,figma&theme=dark"/>
-
-<sub>`Cyber Security`</sub>
-
-<br/><br/>
-
-**🖥️ Operating Systems**
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,windows&theme=dark"/>
-
-</div>
-
-<br/>
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-<br/>
-
 ## 📊 github-analytics.exe
 
 <div align="center">
