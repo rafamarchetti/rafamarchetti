@@ -22,7 +22,7 @@
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
+<table border="0" cellspacing="0" cellpadding="14">
 
 <br/>
 
@@ -70,7 +70,7 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 </div>
 
 <br/>
-___
+<table border="0" cellspacing="0" cellpadding="14">
 <div align="left">
 
 | 🎓 Formação | Instituição |
