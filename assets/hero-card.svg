@@ -1,0 +1,51 @@
+<svg width="1600" height="430" viewBox="0 0 1600 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Rafael Marchetti profile summary</title>
+  <desc id="desc">Premium dark hero card with Rafael Marchetti's role, value proposition, availability, location and focus.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020303"/>
+      <stop offset="0.52" stop-color="#0A0D0E"/>
+      <stop offset="1" stop-color="#020303"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="120" y1="0" x2="1480" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A7F3D0" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#A7F3D0" stop-opacity="0.46"/>
+      <stop offset="1" stop-color="#A7F3D0" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#F8FAFC" stroke-opacity="0.03"/>
+    </pattern>
+    <style>
+      .mono { font-family: Consolas, Monaco, 'Courier New', monospace; }
+      .sans { font-family: Inter, Segoe UI, Arial, sans-serif; }
+      .name { fill: #F8FAFC; font-size: 54px; font-weight: 800; }
+      .role { fill: #CBD5E1; font-size: 21px; font-weight: 700; letter-spacing: 2px; }
+      .copy { fill: #CBD5E1; font-size: 24px; font-weight: 500; }
+      .label { fill: #A7F3D0; font-size: 14px; font-weight: 800; letter-spacing: 3px; }
+      .value { fill: #F8FAFC; font-size: 18px; font-weight: 700; }
+      .muted { fill: #94A3B8; font-size: 17px; font-weight: 500; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="430" fill="url(#bg)"/>
+  <rect width="1600" height="430" fill="url(#grid)"/>
+  <rect x="70.5" y="42.5" width="1459" height="345" stroke="#E5E7EB" stroke-opacity="0.1"/>
+  <path d="M164 94H1436" stroke="url(#edge)" stroke-width="2"/>
+  <path d="M164 336H1436" stroke="url(#edge)" stroke-width="2"/>
+
+  <text x="128" y="82" class="mono label">&gt; whoami</text>
+  <text x="128" y="168" class="sans name">Rafael Marchetti</text>
+  <text x="128" y="210" class="sans role">HEAD OF TECHNOLOGY &amp; INNOVATION</text>
+  <text x="128" y="268" class="sans copy">Building intelligent solutions with Artificial Intelligence</text>
+  <text x="128" y="302" class="sans copy">and Automation.</text>
+
+  <g transform="translate(1010 126)">
+    <text x="0" y="0" class="mono label">STATUS</text>
+    <circle cx="8" cy="32" r="5" fill="#A7F3D0"/>
+    <text x="28" y="38" class="sans value">Available for challenging projects</text>
+    <text x="0" y="94" class="mono label">LOCATION</text>
+    <text x="0" y="132" class="sans value">Brazil</text>
+    <text x="0" y="188" class="mono label">FOCUS</text>
+    <text x="0" y="226" class="sans muted">AI  /  Automation  /  Software Engineering</text>
+  </g>
+</svg>

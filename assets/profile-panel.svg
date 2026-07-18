@@ -1,8 +1,8 @@
-<svg width="1600" height="980" viewBox="0 0 1600 980" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1600" height="1120" viewBox="0 0 1600 1120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">About Rafael Marchetti</title>
-  <desc id="desc">Dark premium profile panel describing Rafael Marchetti's experience, education, professional areas and current studies.</desc>
+  <desc id="desc">Dark premium profile panel describing the value Rafael delivers, current learning journey, professional stack and education.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="980" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="1120" gradientUnits="userSpaceOnUse">
       <stop stop-color="#020303"/>
       <stop offset="0.52" stop-color="#080A0C"/>
       <stop offset="1" stop-color="#020303"/>
@@ -21,65 +21,72 @@
       .title { fill: #F8FAFC; font-size: 31px; font-weight: 800; }
       .label { fill: #A7F3D0; font-size: 15px; font-weight: 800; letter-spacing: 3px; }
       .body { fill: #CBD5E1; font-size: 23px; font-weight: 500; }
-      .muted { fill: #94A3B8; font-size: 20px; font-weight: 500; }
+      .muted { fill: #94A3B8; font-size: 19px; font-weight: 500; }
       .code { fill: #D9F99D; font-size: 19px; font-weight: 700; }
+      .card-title { fill: #F8FAFC; font-size: 22px; font-weight: 800; }
     </style>
   </defs>
 
-  <rect width="1600" height="980" fill="url(#bg)"/>
-  <rect width="1600" height="980" fill="url(#grid)"/>
-  <rect x="70.5" y="58.5" width="1459" height="863" stroke="#E5E7EB" stroke-opacity="0.1"/>
+  <rect width="1600" height="1120" fill="url(#bg)"/>
+  <rect width="1600" height="1120" fill="url(#grid)"/>
+  <rect x="70.5" y="58.5" width="1459" height="1003" stroke="#E5E7EB" stroke-opacity="0.1"/>
   <path d="M164 132H1436" stroke="url(#edge)" stroke-width="2"/>
-  <path d="M164 848H1436" stroke="url(#edge)" stroke-width="2"/>
+  <path d="M164 874H1436" stroke="url(#edge)" stroke-width="2"/>
 
   <text x="128" y="118" class="mono label">./about-me.sh</text>
-  <text x="128" y="184" class="sans title">Tecnologia, automa&#231;&#227;o e IA aplicada</text>
-  <text x="128" y="224" class="sans title">para construir solu&#231;&#245;es reais.</text>
-  <text x="128" y="292" class="sans body">Atuo como Head of Technology &amp; Innovation, unindo Intelig&#234;ncia Artificial,</text>
-  <text x="128" y="328" class="sans body">automa&#231;&#227;o e desenvolvimento para transformar necessidades de neg&#243;cio</text>
-  <text x="128" y="364" class="sans body">em solu&#231;&#245;es pr&#225;ticas, integradas e sustent&#225;veis.</text>
-  <text x="128" y="426" class="sans muted">Minha experi&#234;ncia inclui desenvolvimento web, WordPress, APIs, Docker,</text>
-  <text x="128" y="460" class="sans muted">integra&#231;&#245;es, arquitetura de solu&#231;&#245;es e lideran&#231;a t&#233;cnica.</text>
+  <text x="128" y="184" class="sans title">Construindo solu&#231;&#245;es inteligentes</text>
+  <text x="128" y="224" class="sans title">com IA, automa&#231;&#227;o e engenharia.</text>
+  <text x="128" y="292" class="sans body">Transformando processos manuais em fluxos automatizados e</text>
+  <text x="128" y="328" class="sans body">integrando sistemas para aumentar a efici&#234;ncia operacional.</text>
+  <text x="128" y="394" class="sans muted">Atua&#231;&#227;o em Intelig&#234;ncia Artificial, automa&#231;&#227;o, desenvolvimento web,</text>
+  <text x="128" y="428" class="sans muted">WordPress, APIs, Docker, integra&#231;&#245;es e arquitetura de solu&#231;&#245;es.</text>
+  <text x="128" y="478" class="sans muted">Atualmente ampliando essa atua&#231;&#227;o por meio da p&#243;s-gradua&#231;&#227;o em</text>
+  <text x="128" y="512" class="sans muted">DevOps &amp; Cloud Platform Engineering com IA na PUC Minas.</text>
 
   <g transform="translate(1000 158)">
-    <rect width="420" height="350" fill="#050607" stroke="#1F2937"/>
+    <rect width="420" height="382" fill="#050607" stroke="#1F2937"/>
     <rect width="420" height="4" fill="#A7F3D0" fill-opacity="0.72"/>
-    <text x="34" y="66" class="mono label">current-focus.yaml</text>
-    <text x="34" y="124" class="mono code">focus:</text>
-    <text x="34" y="166" class="mono muted">- DevOps</text>
-    <text x="34" y="204" class="mono muted">- Cloud Engineering</text>
-    <text x="34" y="242" class="mono muted">- Kubernetes</text>
-    <text x="34" y="280" class="mono muted">- Cyber Security</text>
-    <text x="34" y="318" class="mono muted">- AI Agents + MCP</text>
+    <text x="34" y="64" class="mono label">current-focus.yaml</text>
+    <text x="34" y="116" class="mono code">status:</text>
+    <text x="62" y="150" class="mono muted">learning: active</text>
+    <text x="34" y="202" class="mono code">current:</text>
+    <text x="62" y="236" class="mono muted">- AI Agents</text>
+    <text x="62" y="270" class="mono muted">- MCP</text>
+    <text x="62" y="304" class="mono muted">- DevOps</text>
+    <text x="62" y="338" class="mono muted">- Cloud Engineering</text>
+    <text x="62" y="372" class="mono muted">- Kubernetes / Cyber Security</text>
   </g>
 
-  <g transform="translate(128 540)">
-    <text x="0" y="0" class="mono label">areas-of-expertise.json</text>
-    <rect y="34" width="700" height="210" fill="#050607" stroke="#1F2937"/>
-    <text x="32" y="82" class="mono code">{</text>
-    <text x="64" y="120" class="mono muted">"applied_ai": true,</text>
-    <text x="64" y="154" class="mono muted">"automation": true,</text>
-    <text x="64" y="188" class="mono muted">"web_and_wordpress": true,</text>
-    <text x="64" y="222" class="mono muted">"apis_and_integrations": true</text>
-    <text x="32" y="260" class="mono code">}</text>
+  <g transform="translate(128 590)">
+    <text x="0" y="0" class="mono label">professional-stack.json</text>
+    <rect y="34" width="700" height="218" fill="#050607" stroke="#1F2937"/>
+    <text x="32" y="82" class="sans card-title">Professional Stack</text>
+    <text x="32" y="132" class="mono code">AI</text>
+    <text x="190" y="132" class="mono code">AUTOMATION</text>
+    <text x="430" y="132" class="mono code">WORDPRESS</text>
+    <text x="32" y="184" class="mono code">WEB</text>
+    <text x="190" y="184" class="mono code">APIs</text>
+    <text x="320" y="184" class="mono code">DOCKER</text>
+    <text x="500" y="184" class="mono code">INTEGRATIONS</text>
   </g>
 
-  <g transform="translate(880 540)">
+  <g transform="translate(880 590)">
+    <text x="0" y="0" class="mono label">learning-journey.log</text>
+    <rect y="34" width="540" height="218" fill="#050607" stroke="#1F2937"/>
+    <text x="32" y="82" class="sans card-title">Learning Journey</text>
+    <text x="32" y="132" class="mono muted">[in progress] DevOps</text>
+    <text x="32" y="168" class="mono muted">[in progress] Cloud Engineering</text>
+    <text x="32" y="204" class="mono muted">[in progress] Kubernetes</text>
+    <text x="32" y="240" class="mono muted">[in progress] Cyber Security</text>
+  </g>
+
+  <g transform="translate(128 900)">
     <text x="0" y="0" class="mono label">education.card</text>
-    <rect y="34" width="540" height="210" fill="#050607" stroke="#1F2937"/>
-    <text x="32" y="82" class="sans body">Bacharel em Ci&#234;ncia da Computa&#231;&#227;o</text>
-    <text x="32" y="118" class="sans muted">Anhanguera</text>
-    <path d="M32 144H508" stroke="#1F2937"/>
-    <text x="32" y="184" class="sans body">P&#243;s-graduando em DevOps &amp;</text>
-    <text x="32" y="216" class="sans body">Cloud Platform Engineering com IA</text>
-    <text x="32" y="248" class="sans muted">PUC Minas</text>
-  </g>
-
-  <g transform="translate(128 810)">
-    <text x="0" y="0" class="mono label">tech-stack.json</text>
-    <text x="0" y="42" class="mono code">professional_use:</text>
-    <text x="270" y="42" class="mono muted">AI &#8226; Automation &#8226; Web &#8226; APIs &#8226; Docker &#8226; Integrations</text>
-    <text x="0" y="82" class="mono code">currently_learning:</text>
-    <text x="270" y="82" class="mono muted">DevOps &#8226; Cloud Engineering &#8226; Kubernetes &#8226; Cyber Security</text>
+    <rect y="34" width="1292" height="112" fill="#050607" stroke="#1F2937"/>
+    <text x="32" y="78" class="sans body">Bacharel em Ci&#234;ncia da Computa&#231;&#227;o</text>
+    <text x="32" y="114" class="sans muted">Anhanguera</text>
+    <path d="M646 54V126" stroke="#1F2937"/>
+    <text x="694" y="78" class="sans body">P&#243;s-graduando em DevOps &amp; Cloud Platform</text>
+    <text x="694" y="114" class="sans muted">Engineering com IA | PUC Minas</text>
   </g>
 </svg>

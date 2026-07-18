@@ -14,6 +14,11 @@
 <br/>
 <br/>
 
+<img src="assets/hero-card.svg" width="100%" alt="Rafael Marchetti profile summary"/>
+
+<br/>
+<br/>
+
 <img src="assets/profile-panel.svg" width="100%" alt="About Rafael Marchetti"/>
 
 <br/>
