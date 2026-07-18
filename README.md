@@ -75,15 +75,15 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 | Pós-graduando em DevOps & Cloud Platform Engineering com Inteligência Artificial | **PUC Minas** |
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
 ## 📊 github-analytics.exe
 
-<div align="center">
+<div align="left">
 
 <img src="https://streak-stats.demolab.com/?user=rafamarchetti&theme=dark&hide_border=true&background=0F172A&ring=6C63FF&fire=7C3AED&currStreakLabel=8B7CFF&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=E2E8F0&dates=64748B" width="48%"/>
 
-<br/>
+<br/><br/><br/>
 
 </div>
 
@@ -94,18 +94,6 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 **`$ contribution_activity --graph`**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafamarchetti&theme=react-dark&bg_color=0F172A&color=8B7CFF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**`$ trophy_room --list`**
-
-<img src="https://github-profile-trophy.vercel.app/?username=rafamarchetti&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
-
-<sub>⏳ hospedado em serverless (Vercel) — se aparecer em branco na primeira visita, recarregue a página em alguns segundos.</sub>
 
 </div>
 
