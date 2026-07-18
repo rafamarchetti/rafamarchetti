@@ -146,28 +146,6 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 
 <br/>
 
-## 🎓 certifications.md
-
-<div align="center">
-
-| Status | Certification / Program | Provider |
-|:---:|:---|:---|
-| ✅ | Bachelor's Degree in Computer Science | PUC Minas |
-| 🔄 | Postgraduate — DevOps & Cloud Platform Engineering with AI | PUC Minas |
-| ⏳ | AWS Certified Solutions Architect | Amazon Web Services |
-| ⏳ | Microsoft Certified: Azure Fundamentals | Microsoft |
-| ⏳ | Certified Kubernetes Administrator (CKA) | CNCF |
-| ⏳ | Cyber Security Certification | TBD |
-
-<sub>✅ Completed &nbsp;•&nbsp; 🔄 In Progress &nbsp;•&nbsp; ⏳ Planned</sub>
-
-</div>
-
-<br/>
-
-<div align="center"><img src="assets/divider.svg" width="100%"/></div>
-
-<br/>
 
 ## 🔗 connect.sh
 
@@ -196,8 +174,6 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 </a>
 
 <br/><br/>
-
-<sub>⚠️ Confirme/atualize os links de LinkedIn, Instagram, Telegram e YouTube com seus handles reais.</sub>
 
 </div>
 
