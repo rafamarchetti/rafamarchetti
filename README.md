@@ -28,7 +28,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafamarchetti&show_icons=true&hide_title=true&hide_rank=true&hide=issues,prs&include_all_commits=true&bg_color=020303&title_color=A7F3D0&text_color=CBD5E1&icon_color=D9F99D&border_color=1F2937" width="49%" alt="GitHub analytics"/>
+
 <img src="https://streak-stats.demolab.com?user=rafamarchetti&theme=dark&hide_border=true&background=020303&ring=A7F3D0&fire=D9F99D&currStreakLabel=F8FAFC&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=CBD5E1&dates=64748B" width="49%" alt="GitHub streak analytics"/>
 
 <br/>
