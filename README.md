@@ -70,7 +70,7 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 </div>
 
 <br/>
-
+___
 <div align="left">
 
 | 🎓 Formação | Instituição |
