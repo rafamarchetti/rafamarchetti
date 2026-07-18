@@ -1,6 +1,6 @@
 <svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Rafael Marchetti profile summary</title>
-  <desc id="desc">Premium dark terminal card with Rafael Marchetti's role, value proposition, status, location and current direction.</desc>
+  <title id="title">Mission</title>
+  <desc id="desc">Premium dark terminal card describing Rafael Marchetti's mission, availability and current direction.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="500" gradientUnits="userSpaceOnUse">
       <stop stop-color="#020303"/>
@@ -18,8 +18,6 @@
     <style>
       .mono { font-family: Consolas, Monaco, 'Courier New', monospace; }
       .sans { font-family: Inter, Segoe UI, Arial, sans-serif; }
-      .name { fill: #F8FAFC; font-size: 54px; font-weight: 800; }
-      .role { fill: #CBD5E1; font-size: 21px; font-weight: 700; letter-spacing: 2px; }
       .copy { fill: #CBD5E1; font-size: 24px; font-weight: 500; }
       .label { fill: #A7F3D0; font-size: 14px; font-weight: 800; letter-spacing: 3px; }
       .value { fill: #F8FAFC; font-size: 18px; font-weight: 700; }
@@ -33,21 +31,18 @@
   <path d="M164 94H1436" stroke="url(#edge)" stroke-width="2"/>
   <path d="M164 406H1436" stroke="url(#edge)" stroke-width="2"/>
 
-  <text x="128" y="82" class="mono label">&gt; whoami</text>
-  <text x="128" y="168" class="sans name">Rafael Marchetti</text>
-  <text x="128" y="210" class="sans role">HEAD OF TECHNOLOGY &amp; INNOVATION</text>
-  <text x="128" y="268" class="sans copy">Building intelligent software using Artificial Intelligence,</text>
-  <text x="128" y="304" class="sans copy">Automation and Software Engineering.</text>
+  <text x="128" y="82" class="mono label">&gt; mission</text>
+  <text x="128" y="174" class="sans copy">Helping businesses transform ideas into intelligent solutions</text>
+  <text x="128" y="212" class="sans copy">through Artificial Intelligence, Automation and Software Engineering.</text>
 
   <g transform="translate(1010 126)">
     <text x="0" y="0" class="mono label">STATUS</text>
     <circle cx="8" cy="32" r="5" fill="#A7F3D0"/>
     <text x="28" y="38" class="sans value">Available for technology projects</text>
-    <text x="0" y="92" class="mono label">LOCATION</text>
-    <text x="0" y="130" class="sans value">Brazil</text>
-    <text x="0" y="184" class="mono label">CURRENT DIRECTION</text>
-    <text x="0" y="220" class="sans muted">Artificial Intelligence / Automation</text>
-    <text x="0" y="250" class="sans muted">Software Engineering</text>
-    <text x="0" y="280" class="sans muted">Postgraduate studies in DevOps &amp; Cloud</text>
+    <text x="0" y="98" class="mono label">CURRENT DIRECTION</text>
+    <text x="0" y="136" class="sans muted">Artificial Intelligence</text>
+    <text x="0" y="166" class="sans muted">Automation</text>
+    <text x="0" y="196" class="sans muted">System Integration</text>
+    <text x="0" y="226" class="sans muted">Continuous Learning</text>
   </g>
 </svg>

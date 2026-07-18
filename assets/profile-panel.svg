@@ -31,7 +31,7 @@
   <rect width="1600" height="1280" fill="url(#grid)"/>
   <rect x="70.5" y="58.5" width="1459" height="1163" stroke="#E5E7EB" stroke-opacity="0.1"/>
   <path d="M164 132H1436" stroke="url(#edge)" stroke-width="2"/>
-  <path d="M164 1192H1436" stroke="url(#edge)" stroke-width="2"/>
+  <path d="M164 1238H1436" stroke="url(#edge)" stroke-width="2"/>
 
   <text x="128" y="118" class="mono label">./about-me.sh</text>
   <text x="128" y="184" class="sans title">Construo solu&#231;&#245;es que unem Intelig&#234;ncia</text>
@@ -41,10 +41,11 @@
   <text x="128" y="364" class="sans body">efici&#234;ncia operacional.</text>
   <text x="128" y="430" class="sans muted">Atualmente amplio minha atua&#231;&#227;o por meio da p&#243;s-gradua&#231;&#227;o em DevOps &amp;</text>
   <text x="128" y="464" class="sans muted">Cloud Platform Engineering com Intelig&#234;ncia Artificial na PUC Minas,</text>
-  <text x="128" y="498" class="sans muted">aprofundando conhecimentos em plataformas, nuvem e engenharia moderna.</text>
+  <text x="128" y="498" class="sans muted">aprofundando conhecimentos em arquitetura de plataformas, computa&#231;&#227;o em</text>
+  <text x="128" y="532" class="sans muted">nuvem e pr&#225;ticas modernas de engenharia.</text>
 
   <g transform="translate(1000 158)">
-    <rect width="420" height="464" fill="#050607" stroke="#1F2937"/>
+    <rect width="420" height="498" fill="#050607" stroke="#1F2937"/>
     <rect width="420" height="4" fill="#A7F3D0" fill-opacity="0.72"/>
     <text x="34" y="64" class="mono label">current-focus.yaml</text>
     <text x="34" y="116" class="mono code">status:</text>
@@ -53,13 +54,14 @@
     <text x="62" y="236" class="mono muted">- Artificial Intelligence</text>
     <text x="62" y="270" class="mono muted">- AI Agents</text>
     <text x="62" y="304" class="mono muted">- Model Context Protocol</text>
-    <text x="62" y="338" class="mono muted">- DevOps (postgraduate studies)</text>
+    <text x="62" y="338" class="mono muted">- DevOps (Postgraduate Studies)</text>
     <text x="62" y="372" class="mono muted">- Cloud Platform Engineering</text>
-    <text x="62" y="406" class="mono muted">- Kubernetes (learning)</text>
-    <text x="62" y="440" class="mono muted">- Cyber Security (learning)</text>
+    <text x="62" y="406" class="mono muted">  (Postgraduate Studies)</text>
+    <text x="62" y="440" class="mono muted">- Kubernetes (Learning)</text>
+    <text x="62" y="474" class="mono muted">- Cyber Security (Learning)</text>
   </g>
 
-  <g transform="translate(128 650)">
+  <g transform="translate(128 690)">
     <text x="0" y="0" class="mono label">professional-stack.json</text>
     <rect y="34" width="700" height="272" fill="#050607" stroke="#1F2937"/>
     <text x="32" y="82" class="sans card-title">Professional Stack</text>
@@ -74,7 +76,7 @@
     <text x="32" y="290" class="mono code">SYSTEM INTEGRATION</text>
   </g>
 
-  <g transform="translate(880 650)">
+  <g transform="translate(880 690)">
     <text x="0" y="0" class="mono label">learning-journey.log</text>
     <rect y="34" width="540" height="320" fill="#050607" stroke="#1F2937"/>
     <text x="32" y="82" class="sans card-title">Learning Journey</text>
@@ -86,7 +88,7 @@
     <text x="32" y="312" class="mono muted">[in progress] Infrastructure as Code</text>
   </g>
 
-  <g transform="translate(128 1020)">
+  <g transform="translate(128 1060)">
     <text x="0" y="0" class="mono label">education.card</text>
     <rect y="34" width="620" height="112" fill="#050607" stroke="#1F2937"/>
     <text x="32" y="72" class="mono code">BACHELOR'S DEGREE</text>
@@ -94,7 +96,7 @@
     <text x="32" y="134" class="sans muted">Anhanguera</text>
   </g>
 
-  <g transform="translate(800 1020)">
+  <g transform="translate(800 1060)">
     <text x="0" y="0" class="mono label">education.card</text>
     <rect y="34" width="620" height="112" fill="#050607" stroke="#1F2937"/>
     <text x="32" y="72" class="mono code">POSTGRADUATE STUDENT</text>

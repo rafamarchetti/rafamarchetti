@@ -24,13 +24,16 @@
 <br/>
 <br/>
 
+<code>github-analytics.exe</code>
+
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=rafamarchetti&show_icons=true&hide_title=true&hide_rank=true&hide=issues,prs&include_all_commits=true&bg_color=020303&title_color=A7F3D0&text_color=CBD5E1&icon_color=D9F99D&border_color=1F2937" width="49%" alt="GitHub analytics"/>
 <img src="https://streak-stats.demolab.com?user=rafamarchetti&theme=dark&hide_border=true&background=020303&ring=A7F3D0&fire=D9F99D&currStreakLabel=F8FAFC&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=CBD5E1&dates=64748B" width="49%" alt="GitHub streak analytics"/>
 
 <br/>
 
 <img src="https://img.shields.io/github/repo-count/rafamarchetti?style=flat-square&label=REPOSITORIES&color=0B1112&labelColor=020303" alt="Repositories"/>
-<img src="https://img.shields.io/github/followers/rafamarchetti?style=flat-square&label=FOLLOWERS&color=0B1112&labelColor=020303" alt="Followers"/>
 
 <br/>
 <br/>
@@ -38,6 +41,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafamarchetti&bg_color=020303&color=94A3B8&line=A7F3D0&point=F8FAFC&area=true&area_color=123A3A&hide_border=true&custom_title=Contribution%20Signal" width="100%" alt="Contribution activity graph"/>
 
 <br/>
+<br/>
+
+<code>contact.env</code>
+
 <br/>
 
 <a href="https://www.instagram.com/orafaelmarchetti/">
