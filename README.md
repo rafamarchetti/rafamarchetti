@@ -4,6 +4,7 @@
 
 <br/>
 <br/>
+<br/>
 
 <a href="https://www.rafaelmarchetti.com.br">
   <img src="https://img.shields.io/badge/WEBSITE-rafaelmarchetti.com.br-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A"/>
@@ -66,19 +67,19 @@ Atualmente sou **pós-graduando em DevOps & Cloud Platform Engineering com Intel
 </div>
 
 <br/>
-<div align="left">
+<div align="center">
 
 | 🎓 Formação | Instituição |
 |:---|:---|
-| - Bacharel em Ciência da Computação | **Anhanguera** |
-| - Pós-graduando em DevOps & Cloud Platform Engineering com Inteligência Artificial | **PUC Minas** |
+| Bacharel em Ciência da Computação | **Anhanguera** |
+| Pós-graduando em DevOps & Cloud Platform Engineering com Inteligência Artificial | **PUC Minas** |
 </div>
 
-<br/>
+<br/><br/>
 
 ## 📊 github-analytics.exe
 
-<div align="center">
+<div align="left">
 
 <img src="https://streak-stats.demolab.com/?user=rafamarchetti&theme=dark&hide_border=true&background=0F172A&ring=6C63FF&fire=7C3AED&currStreakLabel=8B7CFF&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=E2E8F0&dates=64748B" width="48%"/>
 
